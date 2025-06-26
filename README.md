@@ -1,3 +1,4 @@
+Link to the problem - https://mystery.knightlab.com/walkthrough.html
 🕵 SQL Murder Mystery — Walkthrough
 
 Goal: Identify the murderer in SQL City using clues from a structured database.
